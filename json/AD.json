@@ -208,5 +208,6 @@
  "effect_scale": "log-odds", 
  "pheno_id": "testdoi", 
  "build": "37", 
- "pheno": "AD"
+ "pheno": "AD",
+ "baseline_prob": 0.11
 }
